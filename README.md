@@ -20,10 +20,14 @@ To run this project, you need the following:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Web-Page-Summarizer.git
+2. Navigate to the project directory:
+   ```bash
    cd Web-Page-Summarizer
+3. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-   ## Usage
+## Usage
 Follow these steps to run the project:
 
 1. **Run the Application**:
