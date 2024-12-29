@@ -19,17 +19,17 @@ A Python-based web content summarizer using BeautifulSoup for web scraping and O
    git clone https://github.com/yourusername/Web-Page-Summarizer.git
    
 ## Navigate to the project directory:
-bash
+   ```bash
 cd Web-Page-Summarizer
 
 ## Install dependencies:
-bash
+   ```bash
 pip install -r requirements.txt
 
 ## Usage
 ### Run the Application:
 For terminal-based usage:
-bash
+   ```bash
 python script.py
 For Jupyter Notebook: Open the notebook file and execute cells as needed.
 Provide the URL: Enter the URL of the website you want to summarize.
