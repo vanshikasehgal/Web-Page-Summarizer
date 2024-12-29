@@ -52,11 +52,4 @@ Here’s an example of what the application provides:
 **Output**:
 Website Title: Example Domain Summary: This is an example website created for demonstrating web content summarization. It provides placeholder text and a few examples of how to use it effectively.
 
-## Contributing
-We welcome contributions! If you’d like to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
 
